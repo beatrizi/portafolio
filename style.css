@@ -1,3 +1,4 @@
+/*reseteando estilos*/
 * {
   margin: 0;
   padding: 0;
@@ -7,6 +8,6 @@
 }
 
 body {
-  background: green;
+  font-family: 'Poppins', sans-serif;
 }
 /*# sourceMappingURL=style.css.map */
